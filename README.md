@@ -1,4 +1,6 @@
 # Google Clone
+Realice un clone de Google, práctica para reforzar conocimientos básicos, con Responsive Design (diseño web adaptable)
+
 <p>
 <img
   alt="VS Code"
